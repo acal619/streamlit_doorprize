@@ -1,0 +1,2 @@
+1. Data akan hilang ketika halaman di tutup / refresh
+2. Pastikan untuk mengunduh data terlebih dahulu sebelum melakukan refresh / menutup halaman
